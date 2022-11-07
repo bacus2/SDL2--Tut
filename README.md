@@ -2,7 +2,7 @@
 * main test,  
 * installer.bat is just complier to make .exe file 
 
-##Code
+## Code
 ```C++
 
 #include "SDL.h"
