@@ -9,6 +9,9 @@ int main() {
 
     // displays output
     printf("You entered: %d", number);
+    //smthin
+    //ignort
+    printf("Hello");
     
     return 0;
 }
